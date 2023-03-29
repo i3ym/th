@@ -1,0 +1,16 @@
+body {
+    background: #212121;
+    color: #fafafa;
+
+    font-size: 20pt;
+}
+body > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
